@@ -4,6 +4,5 @@ docker-compose.yaml
 README.md
 LICENSE
 logs/*.log
-account/*.json
 .idea
 venv
