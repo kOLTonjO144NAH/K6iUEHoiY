@@ -3,7 +3,6 @@ Dockerfile
 .git
 .gitignore
 .gitattributes
-README.md
 .npmrc
 .prettierrc
 .eslintrc.cjs
